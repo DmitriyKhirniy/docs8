@@ -1,0 +1,8 @@
+site_name: "docs8"
+site_description: "docs8"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

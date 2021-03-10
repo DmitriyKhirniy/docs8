@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "docs8"
+  description: "docs8"
+  annotations:
+    backstage.io/techdocs-ref: url:http://github.com/DmitriyKhirniy/docs8
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "DmitriyKhirniy"
